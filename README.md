@@ -1,0 +1,1 @@
+Hi, how are you! This my Headset GitHub 3D Model project that I made in Autodesk Fusion 360. I left a .stl file for you if you want to use it, I hope you enjoy it! This project could be open in Solidworks, ThinkerCAD, Meshmixer and others 3D viewers.
